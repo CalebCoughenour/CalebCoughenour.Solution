@@ -25,7 +25,6 @@ namespace CalebCoughenour
 
     public void Configure(IApplicationBuilder app)
     {
-      app.UseStaticFiles();
       
       app.UseRouting();
 
