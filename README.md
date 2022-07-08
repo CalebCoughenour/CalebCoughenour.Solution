@@ -1,6 +1,6 @@
 # Work In Progress
 
-# Portfolio Page
+# Caleb Coughenou's Portfolio Page
 
 #### By Caleb Coughenour
 
