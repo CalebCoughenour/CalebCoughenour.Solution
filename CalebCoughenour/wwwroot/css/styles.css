@@ -94,6 +94,10 @@ a {
   margin-bottom: 10px;
 }
 
+.atchoo-body {
+  background-color: #26277caa;
+}
+
 /* Crpyto Site Styles */
 
 .crypto-card{
@@ -137,6 +141,10 @@ a {
   margin-bottom: 10px;
 }
 
+.crypto-body {
+  background-image: url('https://wallpapercave.com/wp/wp4678542.jpg');
+}
+
 /* SillyStringz site styles */
 
 .sillystringz-card{
@@ -178,6 +186,10 @@ a {
 #sillystringz-github-link {
   text-decoration: underline;
   margin-bottom: 10px;
+}
+
+.sillystringz-body {
+  background-color: #808080;
 }
 
 /* Pierre's Bakery site styles */
@@ -229,4 +241,8 @@ a {
 #pierres-github-link {
   text-decoration: underline;
   margin-bottom: 10px;
+}
+
+.pierres-body {
+  background-color: rgb(216, 142, 3);
 }
