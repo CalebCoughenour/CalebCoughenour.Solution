@@ -13,5 +13,17 @@ namespace CalebCoughenour.Controllers
     {
       return View();
     }
+    public ActionResult CryptoDetails()
+    {
+      return View();
+    }
+    public ActionResult SillystringzDetails()
+    {
+      return View();
+    }
+    public ActionResult PierresDetails()
+    {
+      return View();
+    }
   }
 }
