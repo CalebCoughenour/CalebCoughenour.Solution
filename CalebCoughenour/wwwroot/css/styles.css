@@ -88,3 +88,140 @@ a {
   text-decoration: underline;
   margin-bottom: 10px;
 }
+
+/* Crpyto Site Styles */
+
+.crypto-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.crypto-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.crypto-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.crypto-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#crypto-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+/* SillyStringz site styles */
+
+.sillystringz-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.sillystringz-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.sillystringz-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.sillystringz-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#sillystringz-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+/* Pierre's Bakery site styles */
+
+.pierres-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.pierres-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.pierres-img-edited {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+  height: 220px
+}
+
+.pierres-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.pierres-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#pierres-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
