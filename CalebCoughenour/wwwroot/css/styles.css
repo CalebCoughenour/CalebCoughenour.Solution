@@ -12,6 +12,11 @@ img {
   border: solid 1px black;
 }
 
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
 
 
 /* Project Page */
