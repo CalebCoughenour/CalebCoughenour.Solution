@@ -1,22 +1,18 @@
 @{
     ViewData["Title"] = "Home";
 }
-
+<ul class="topnav">
+  <li><a href="/" class="active">Home</a></li>
+  <li><a href="/aboutme">About Me</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/resume">Resume</a></li>
+</ul>
 <h1>Welcome To Caleb Coughenour's Portfolio</h1>
-
 <div class="card">
-    <div class="card-body">
-        <div class="card-title">Take A Look Around!</div>
-        <div class="card-text">
-            View my projects, resume and about me pages!
-        </div>
+  <div class="card-body">
+    <div class="card-title">Take A Look Around!</div>
+    <div class="card-text">
+      View my projects, resume and about me pages!
     </div>
+  </div>
 </div>
-
-
-@* Will add navbar later for the links
-    Home/About/Resume/Projects
- *@
-<p>@Html.ActionLink("About Me", "Index", "AboutMe")</p>
-<p>@Html.ActionLink("Resume", "Index", "Resume")</p>
-<p>@Html.ActionLink("Projects", "Index", "Projects")</p>
