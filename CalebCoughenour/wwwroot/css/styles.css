@@ -285,8 +285,17 @@ ul.topnav li.right {float: right;}
 
 /* About Me Page */
 
-#selfie {
+#selfie-img {
   width: 20%;
   float: left;
   border-radius: 15px;
+}
+
+#path-img {
+  width: 20%;
+  float: right;
+}
+
+.about-me-text {
+  font-size: large;
 }
