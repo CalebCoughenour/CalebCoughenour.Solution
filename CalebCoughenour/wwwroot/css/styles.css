@@ -8,7 +8,7 @@ img {
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 10px;
-  border-radius: 5px 5px 0 0;
+  border-radius: 15px;
   border: solid 1px black;
 }
 
@@ -16,13 +16,6 @@ ul {
   display: inline-block;
   text-align: left;
 }
-/* 
-a {
-  display: inline-block;
-  width: 100%;
-  height: 100%;
-} */
-
 
 /* Splash Page */
 
@@ -52,10 +45,15 @@ a {
 
 /* Footer */
 
-/* 
-.footer-link {
-  display: flex;
-} */
+#footer-header {
+  margin-top: 10px;
+  text-align: center;
+  color: black;
+}
+
+#footer-link {
+  color: #0404ac;
+}
 
 
 
@@ -352,4 +350,30 @@ ul.topnav li.right {float: right;}
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.511);
+}
+
+/* Resume Page */
+
+.resume-body {
+  background-color: #cccccc;
+}
+
+.resume-card {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.878);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.755);
+  border-radius: 0.25rem;
+}
+
+.resume-card-title {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 0.5rem;
 }
