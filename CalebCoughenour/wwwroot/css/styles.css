@@ -17,6 +17,11 @@ ul {
   text-align: left;
 }
 
+.jumbotron {
+  margin-top: 20px;
+  background-color: #6357DB;
+}
+
 /* Splash Page */
 
 #home-body {
@@ -55,12 +60,15 @@ ul {
   color: #0404ac;
 }
 
-
-
 /* Project Page */
 
-.project-card{
-  margin-bottom: 10px;
+.project-body {
+  background-color: #3B2DD2;
+}
+
+.project-card {
+  margin-bottom: 20px;
+  padding-bottom: 25px;
   position: relative;
   display: -ms-flexbox;
   display: flex;
@@ -73,17 +81,14 @@ ul {
   border: 1px solid rgba(0, 0, 0, 0.426);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.533);
+  text-align: center;
 }
-
 
 .project-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.438);
 }
 
 /* Atchoo Details Page */
-
-
-
 
 .atchoo-card{
   margin-top: 20px;
@@ -315,6 +320,10 @@ ul.topnav li.right {float: right;}
   ul.topnav li {float: none;}
 }
 
+.back-button {
+  float: left;
+}
+
 /* About Me Page */
 
 .about-me-body {
@@ -337,6 +346,7 @@ ul.topnav li.right {float: right;}
 }
 
 .about-me-card{
+  margin-top: 20px;
   margin-bottom: 10px;
   position: relative;
   display: -ms-flexbox;
