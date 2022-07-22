@@ -282,3 +282,11 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
+
+/* About Me Page */
+
+#selfie {
+  width: 20%;
+  float: left;
+  border-radius: 15px;
+}
