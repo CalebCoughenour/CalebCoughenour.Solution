@@ -17,6 +17,31 @@ ul {
   text-align: left;
 }
 
+/* Splash Page */
+
+#home-body {
+  background-color: #cccccc;
+}
+
+#home-img-banner {
+  background-image: url(../img/Splash/mt-hood.jpg);
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#home-header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
 
 
 /* Project Page */
@@ -34,7 +59,7 @@ ul {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.426);
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.533);
 }
 
 
@@ -67,7 +92,7 @@ a {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.505);
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.552);
 }
 
 .atchoo-img {
@@ -114,7 +139,7 @@ a {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.454);
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.504);
 }
 
 .crypto-img {
@@ -161,7 +186,7 @@ a {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.488);
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.571);
 }
 
 .sillystringz-img {
@@ -208,7 +233,7 @@ a {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.471);
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.574);
 }
 
 .pierres-img {
