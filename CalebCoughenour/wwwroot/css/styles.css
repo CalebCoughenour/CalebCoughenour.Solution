@@ -16,6 +16,13 @@ ul {
   display: inline-block;
   text-align: left;
 }
+/* 
+a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+} */
+
 
 /* Splash Page */
 
@@ -24,6 +31,7 @@ ul {
 }
 
 #home-img-banner {
+  margin-top: 100px;
   background-image: url(../img/Splash/mt-hood.jpg);
   background-color: #cccccc;
   background-position: center;
@@ -41,6 +49,13 @@ ul {
   top: 0;
   z-index: 1;
 }
+
+/* Footer */
+
+/* 
+.footer-link {
+  display: flex;
+} */
 
 
 
@@ -65,12 +80,6 @@ ul {
 
 .project-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.438);
-}
-
-a {
-  display: inline-block;
-  width: 100%;
-  height: 100%;
 }
 
 /* Atchoo Details Page */
