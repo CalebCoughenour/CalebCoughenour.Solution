@@ -32,14 +32,14 @@ ul {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(0, 0, 0, 0.426);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 
 .project-card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.438);
 }
 
 a {
@@ -65,7 +65,7 @@ a {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(0, 0, 0, 0.505);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
@@ -112,7 +112,7 @@ a {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(0, 0, 0, 0.454);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
@@ -159,7 +159,7 @@ a {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(0, 0, 0, 0.488);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
@@ -206,7 +206,7 @@ a {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(0, 0, 0, 0.471);
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
@@ -285,6 +285,10 @@ ul.topnav li.right {float: right;}
 
 /* About Me Page */
 
+.about-me-body {
+  background-color: #00862d;
+}
+
 #selfie-img {
   width: 20%;
   float: left;
@@ -298,4 +302,20 @@ ul.topnav li.right {float: right;}
 
 .about-me-text {
   font-size: large;
+}
+
+.about-me-card{
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.47);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.511);
 }
