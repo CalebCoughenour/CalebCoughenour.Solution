@@ -8,18 +8,19 @@
     <link href="~/css/styles.css" rel="stylesheet" type="text/css">
 </head>
 <body id="home-body">
-    <div class="container">
-      <ul class="topnav">
-  <li><a href="/" class="active">Home</a></li>
-  <li><a href="/aboutme">About Me</a></li>
-  <li><a href="/projects">Projects</a></li>
-  <li><a href="/resume">Resume</a></li>
-</ul>
-        <main role="main" class="pb-3">
-            @RenderBody()
-            <img id="home-img-banner" src="./img/Splash/mt-hood.jpg" />
-        </main>
-        @await Html.PartialAsync("Footer")
-    </div>
+  <div class="container">
+    <ul class="topnav">
+      <a id="nav-name-link" href="/"><h1 class="nav-title">Caleb Coughenour</h1></a>
+      <li><a href="/" class="active">Home</a></li>
+      <li><a href="/aboutme">About Me</a></li>
+      <li><a href="/projects">Projects</a></li>
+      <li><a href="/resume">Resume</a></li>
+    </ul>
+    <main role="main" class="pb-3">
+      @RenderBody()
+      <img id="home-img-banner" src="./img/Splash/mt-hood.jpg" />
+    </main>
+    @await Html.PartialAsync("Footer")
+  </div>
 </body>
 </html>
