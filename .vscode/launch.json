@@ -10,7 +10,7 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/CalebCoughenour/bin/Debug/net5.0/CalebCoughenour.dll",
+      "program": "${workspaceFolder}/CalebCoughenour/bin/Debug/net6.0/CalebCoughenour.dll",
       "args": [],
       "cwd": "${workspaceFolder}/CalebCoughenour",
       "stopAtEntry": false,
