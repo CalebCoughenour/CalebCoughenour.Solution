@@ -1,0 +1,61 @@
+@{
+    ViewData["Title"] = "Crypto Site Details";
+}
+<ul class="topnav">
+  <li><a href="/">Home</a></li>
+  <li><a href="/aboutme">About Me</a></li>
+  <li><a href="/projects" class="active">Projects</a></li>
+  <li><a href="/resume">Resume</a></li>
+  <a href="/projects"><button class="back-button">&#60; back</button></a>
+</ul>
+<body class="crypto-body">
+  <div class="crypto-card">
+    <div class="card-body">
+      <h1 class="crypto-header-style">Crypto Project Details</h1>
+      <h3 class="crypto-header-style"><a href="https://github.com/CalebCoughenour/CMM-Crypto">Github Link</a></h3>
+        <div class="card-text">
+          <img class="crypto-img" src="..\img\Crypto\crypto-gas-fee.png" alt="A screenshot of the gas fee results." />
+          <div class="row">                    
+            <div class="col-6">
+              <div class="crypto-text-style">
+                <h5 class="crypto-header-style">Languages</h5>
+                <ul>
+                <li>JavaScript</li>
+                <li>HTML</li>
+                <li>CSS</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="crypto-text-style">
+              <h5 class="crypto-header-style">Technologies</h5>
+              <ul>
+                <li>API</li>
+                <li>JQuery</li>
+                <li>Node.js</li>
+              </ul>
+            </div>
+         </div>
+        </div>
+        <div class="row">                 
+          <div class="col-6">
+            <img class="crypto-img" src="../img/Crypto/crypto-price-drop-down.png" alt="Screenshot of ticker drop down search with results.">
+          </div>
+          <div class="col-6">
+            <img class="crypto-img" src="../img/Crypto/crypto-search.png" alt="Screenshot of ticker search with results.">
+          </div>                  
+        </div>
+        <p class="crypto-text-style">
+          This webpage displays the top 4 currency prices in the header. The user can pick between the top 10 coins to see information about it. They can also choose an interval of 1day, 7days, 30days, 365days or year-to-date. The page will fetch information from Nomics API. It will display current price & price change and volume for selected time interval. There's also a more info button to begin going down the rabbit hole. There are a total of five different API calls being made. There is an ETH gas fee API, Nomicsp price API, Cat Fact API, a Simpsons API for the Homer quote and GIPHY API call for The Simpsons GIFs. 
+        </p>
+        <div class="row">                 
+          <div class="col-6">
+            <img class="crypto-img" src="../img/Crypto/more-info.png" alt="Screenshot of Cat Fact API call and homer gif.">
+          </div>
+          <div class="col-6">
+            <img class="crypto-img" src="../img/Crypto/more-quotes.png" alt="Screenshot of results from random simpsons character API and Giphy API.">
+          </div>                  
+        </div>
+    </div>
+  </div>
+</body>

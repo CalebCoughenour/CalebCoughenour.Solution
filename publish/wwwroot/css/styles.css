@@ -1,0 +1,401 @@
+/* Global Styles */
+
+hr {
+  border-top: 3px solid #000000;
+}
+
+img {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 15px;
+  border: solid 1px black;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.jumbotron {
+  margin-top: 20px;
+  background-color: #4898EA;
+}
+
+/* Splash Page */
+
+#home-body {
+  background-color: #cccccc;
+}
+
+#home-img-banner {
+  margin-top: 100px;
+  background-image: url(../img/Splash/mt-hood.jpg);
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#home-header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Footer */
+
+#footer-header {
+  margin-top: 10px;
+  text-align: center;
+  color: black;
+}
+
+#footer-link {
+  color: #0404ac;
+}
+
+/* Project Page */
+
+.project-body {
+  background-color: #1B7EE4;
+}
+
+.project-card {
+  margin-bottom: 20px;
+  padding-bottom: 25px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.426);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.533);
+  text-align: center;
+}
+
+.project-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.438);
+}
+
+.back-button {
+  margin-top: 10px;
+  margin-right: 20px;
+  float: right;
+}
+
+/* Atchoo Details Page */
+
+.atchoo-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.505);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.552);
+}
+
+.atchoo-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  width: 90%;
+}
+
+.atchoo-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.atchoo-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#atchoo-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.atchoo-body {
+  background-color: #26277caa;
+}
+
+/* Crpyto Site Styles */
+
+.crypto-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.454);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.504);
+}
+
+.crypto-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.crypto-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.crypto-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#crypto-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.crypto-body {
+  background-image: url('https://wallpapercave.com/wp/wp4678542.jpg');
+}
+
+/* SillyStringz site styles */
+
+.sillystringz-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.488);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.571);
+}
+
+.sillystringz-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.sillystringz-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.sillystringz-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#sillystringz-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.sillystringz-body {
+  background-color: #808080;
+}
+
+/* Pierre's Bakery site styles */
+
+.pierres-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.471);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.574);
+}
+
+.pierres-img {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.pierres-img-edited {
+  margin-left: 25px;  
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 90%;
+  height: 220px
+}
+
+.pierres-text-style {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.pierres-header-style {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#pierres-github-link {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.pierres-body {
+  background-color: rgb(216, 142, 3);
+}
+
+/* Nav bard styles */
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 100%;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #04AA6D;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+#nav-name-link {
+  margin-left: 10px;
+  margin-right: 15px;
+  float: left;
+  text-decoration: none;
+  color: #fff;
+  text-shadow: rgb(0, 0, 0) 2px 2px;
+  width: 60%;
+}
+
+/* About Me Page */
+
+.about-me-body {
+  background-color: #00862d;
+}
+
+#selfie-img {
+  width: 20%;
+  float: left;
+  border-radius: 15px;
+}
+
+#path-img {
+  width: 20%;
+  float: right;
+}
+
+.about-me-text {
+  font-size: large;
+}
+
+.about-me-card{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.47);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.511);
+}
+
+/* Resume Page */
+
+.resume-body {
+  background-color: #cccccc;
+}
+
+.resume-card {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.878);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.755);
+  border-radius: 0.25rem;
+}
+
+.resume-card-title {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 0.5rem;
+}

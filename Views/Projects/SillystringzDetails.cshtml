@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "SillyStringz Site Details";
+}
+<ul class="topnav">
+  <li><a href="/">Home</a></li>
+  <li><a href="/aboutme">About Me</a></li>
+  <li><a href="/projects" class="active">Projects</a></li>
+  <li><a href="/resume">Resume</a></li>
+  <a href="/projects"><button class="back-button">&#60; back</button></a>
+</ul>
+<body class="sillystringz-body">
+  <div class="sillystringz-card">
+    <div class="card-body">
+      <h1 class="sillystringz-header-style">SillyStringz Project Details</h1>
+      <h3 class="sillystringz-header-style"><a href="https://github.com/CalebCoughenour/Sillystringz.Solution">Github Link</a></h3>
+      <div class="card-text">      
+          <img class="sillystringz-img" src="..\img\SillyStringz/splash-with-list.png" alt="A screenshot of the gas fee results." />
+          <div class="row">                    
+            <div class="col-6">
+              <div class="sillystringz-text-style">
+                <h5 class="sillystringz-header-style">Languages</h5>
+                <ul>
+                  <li>C#</li>
+                  <li>HTML</li>
+                  <li>CSS</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-6">
+              <div class="sillystringz-text-style">
+                <h5 class="sillystringz-header-style">Technologies</h5>
+                <ul>
+                  <li>ASP.NET</li>
+                  <li>SQL</li>
+                  <li>Entity Framework</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <p class="sillystringz-text-style">
+            This webpage was programmed using C#, ASP.NET & Entity. It is a factory machine management site that allows the user to add engineers and machines. This is done using the SQL Workbench for the database using three tables to utilize a many-to-many relationship. The user can add multiple engineers to machines that need worked on, they can also add machines to engineers. The home page displays the list of machines and engineers if there are any added. The user can click on each and it will display the details on a separate page.
+          </p>
+          <div class="row">                 
+            <div class="col-6">
+              <img class="sillystringz-img" src="../img/SillyStringz/empty-engineer-list.png" alt="Screenshot of engineer list before any are added.">
+            </div>
+              <div class="col-6">
+              <img class="sillystringz-img" src="../img/SillyStringz/add-engineer.png" alt="Screenshot of ticker search with results.">
+            </div>                  
+          </div>
+          <p class="sillystringz-text-style">A user can add engineers to the database</p>
+          <img class="sillystringz-img" src="../img/SillyStringz/engineer-list.png" alt="Screenshot of engineer list with added engineer">
+          <div class="row">                 
+            <div class="col-6">
+              <img class="sillystringz-img" src="../img/SillyStringz/add-machine.png" alt="Screenshot of the machine create page.">
+            </div>
+            <div class="col-6">
+              <img class="sillystringz-img" src="../img/SillyStringz/machine-list.png" alt="Screenshot of the machine list page">
+            </div>                  
+          </div>
+          <p class="sillystringz-text-style">A user can also add machines to the database</p>
+          <img class="sillystringz-img" src="../img/SillyStringz/machine-details.png" alt="Screenshot of the machine details page.">
+          <img class="sillystringz-img" src="../img/SillyStringz/add-engineer-to-machine.png" alt="Screenshot of the add engineer to machine page.">
+          <p class="sillystringz-text-style">Using a many-to-many relationship, users can add machines to engineers or add engineers to machines.</p>        
+          <img class="sillystringz-img" src="../img/SillyStringz/machine-details-with-engineer.png" alt="Screenshot of the machine details with added engineer.">    
+          <img class="sillystringz-img" src="../img/SillyStringz/engineer-details-with-machine.png" alt="Screenshot of the engineer details page with added machine.">
+          <p class="sillystringz-text-style">Here shows the details page for machines and engineers with their connected machine or engineer.</p>               
+      </div>
+    </div>
+  </div>
+</body>
