@@ -8,9 +8,9 @@ https://azuretrendz.wordpress.com/2020/04/01/how-to-verify-custom-domain-from-go
 
 - Waiting some time for SSL to take effect, not sure if it will work but need to wait (COMPLETED)
 
-- Looking into adding the SSL to the hosted site
+- Looking into adding the SSL to the hosted site (COMPLETED)
 https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=apex%2Cportal
-
+https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=apex%2Cportal#import-certificate-into-app-service
 
 
 
