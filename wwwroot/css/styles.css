@@ -294,11 +294,11 @@ ul {
 /* Nav bard styles */
 
 ul.topnav {
-  list-style-type: none;
   margin: 0;
   padding: 0;
+  list-style-type: none;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(133, 133, 133);
   width: 100%;
   position: -webkit-sticky; /* Safari */
   position: sticky;
@@ -313,7 +313,7 @@ ul.topnav li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 24px;
   text-decoration: none;
 }
 
@@ -333,7 +333,7 @@ ul.topnav li.right {float: right;}
   margin-right: 15px;
   float: left;
   text-decoration: none;
-  color: #cccccc;
+  color: #f0e9e9;
   text-shadow: rgb(0, 0, 0) 2px 2px;
 }
 
