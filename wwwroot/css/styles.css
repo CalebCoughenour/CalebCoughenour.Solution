@@ -19,7 +19,8 @@ ul {
 
 .jumbotron {
   margin-top: 20px;
-  background-color: #4898EA;
+  background-color: #ffffff9a;
+  text-align: center;
 }
 
 /* Splash Page */
@@ -63,7 +64,7 @@ ul {
 /* Project Page */
 
 .project-body {
-  background-color: #1B7EE4;
+  background-color: #cccccc;
 }
 
 .project-card {
@@ -303,6 +304,7 @@ ul.topnav {
   position: sticky;
   top: 0;
   z-index: 1;
+  flex: 0 0 auto;
 }
 
 ul.topnav li {float: left;}
@@ -331,15 +333,14 @@ ul.topnav li.right {float: right;}
   margin-right: 15px;
   float: left;
   text-decoration: none;
-  color: #fff;
+  color: #cccccc;
   text-shadow: rgb(0, 0, 0) 2px 2px;
-  width: 60%;
 }
 
 /* About Me Page */
 
 .about-me-body {
-  background-color: #00862d;
+  background-color: #cccccc;
 }
 
 #selfie-img {
@@ -367,7 +368,7 @@ ul.topnav li.right {float: right;}
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: rgba(255, 255, 255, 0.47);
+  background-color: rgba(255, 255, 255, 0.648);
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 15px;
