@@ -1,0 +1,5 @@
+1. Research how to launch website on Azure (COMPLETED)
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vscode?view=aspnetcore-6.0
+
+2.
