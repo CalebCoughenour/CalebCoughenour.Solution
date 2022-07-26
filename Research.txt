@@ -6,4 +6,11 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-u
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain?tabs=a%2Cazurecli
 https://azuretrendz.wordpress.com/2020/04/01/how-to-verify-custom-domain-from-godaddy-com-in-azure-portal/
 
-- Waiting some time for SSL to take effect, not sure if it will work but need to wait
+- Waiting some time for SSL to take effect, not sure if it will work but need to wait (COMPLETED)
+
+- Looking into adding the SSL to the hosted site
+https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=apex%2Cportal
+
+
+
+
