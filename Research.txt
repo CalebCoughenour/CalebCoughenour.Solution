@@ -5,3 +5,5 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-u
 2. Research how to add custom domain name on azure (COMPLETED)
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain?tabs=a%2Cazurecli
 https://azuretrendz.wordpress.com/2020/04/01/how-to-verify-custom-domain-from-godaddy-com-in-azure-portal/
+
+- Waiting some time for SSL to take effect, not sure if it will work but need to wait
