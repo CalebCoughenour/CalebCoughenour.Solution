@@ -17,3 +17,4 @@ https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tab
 3. Research how to add React to ASP.NET MVC page
 
 - https://www.c-sharpcorner.com/article/my-first-react-application-with-asp-net-mvc/
+-Switch to different resource (https://www.thisdot.co/blog/adding-react-to-your-asp-net-mvc-web-app)
