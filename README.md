@@ -4,6 +4,8 @@
 
 #### By Caleb Coughenour
 
+#### [CalebCoughenour.com](http://calebcoughenour.com)
+
 ## Technologies Used
 
 * C#
@@ -30,11 +32,11 @@
 * In the shell program, navigate to the root directory of the newly created file called "CalebCoughenour.Solution"
 * From the root directory, navigate to the directory named "CalebCoughenour"
 * Next, in the PierresSweets directory type "dotnet run" to start the program
-* Open a web browser and plug "http://localhost:5000/" into the URL bar
+* Open a web browser and plug "http://localhost:5001/" into the URL bar
 
 ## Known Bugs
 
-* Still being built but no known bugs or issues
+* No known bugs or issues
 
 ## License
 

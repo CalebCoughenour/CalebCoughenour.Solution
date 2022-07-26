@@ -1,0 +1,24 @@
+{
+  "name": "calebcoughenour.solution",
+  "version": "1.0.0",
+  "description": "* C#\r * Html\r * CSS\r * ASP.NET Core\r * REPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebCoughenour/CalebCoughenour.Solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebCoughenour/CalebCoughenour.Solution/issues"
+  },
+  "homepage": "https://github.com/CalebCoughenour/CalebCoughenour.Solution#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}

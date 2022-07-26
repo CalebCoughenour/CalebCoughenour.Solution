@@ -23,3 +23,5 @@ C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\D
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\Debug\net6.0\CalebCoughenour.pdb
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\Debug\net6.0\CalebCoughenour.genruntimeconfig.cache
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\Debug\net6.0\ref\CalebCoughenour.dll
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\bin\Debug\net6.0\package-lock.json
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\bin\Debug\net6.0\package.json
