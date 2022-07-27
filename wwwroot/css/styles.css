@@ -52,6 +52,10 @@ ul {
 
 /* Footer */
 
+.footer {
+  margin-top: 20px;
+}
+
 #footer-header {
   margin-top: 10px;
   text-align: center;
@@ -66,7 +70,7 @@ ul {
 
 .project-card {
   margin-bottom: 20px;
-  padding-bottom: 25px;
+  padding-bottom: 20px;
   position: relative;
   display: -ms-flexbox;
   display: flex;
@@ -427,10 +431,14 @@ ul {
 }
 
 .panel {
-  padding: 0 18px;
+  padding: 15px 18px;
   background-color: white;
   display: none;
   overflow: hidden;
+}
+
+.faq-header {
+  margin-bottom: 10px;
 }
 
 /* Media Queries */
