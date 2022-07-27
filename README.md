@@ -12,9 +12,13 @@
 * ASP.NET Core
 * REPL
 
+## Hosting
+
+ The site is hosted using Azure [Here](https://calebcoughenour.com)
+
 ## Description
 
- This is a MVC webpage that has an about me, my resume and displays a few of my projects.
+ This is a MVC webpage that has an about me, my resume and displays four of my projects
 
  ## Required
 
