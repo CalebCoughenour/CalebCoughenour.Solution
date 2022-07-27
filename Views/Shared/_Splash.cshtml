@@ -26,15 +26,11 @@
   </div>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
-
-
-<body id="home-body">
-  <div class="container">
-    <main role="main" class="pb-3">
-      @RenderBody()
-      <img id="home-img-banner" src="./img/Splash/mt-hood.jpg" />
-    </main>
-  </div>
+<div class="container">
+  <main role="main" class="pb-3">
+    @RenderBody()
+    <img id="home-img-banner" src="./img/Splash/mt-hood.jpg" />
+  </main>
   @await Html.PartialAsync("Footer")
   <script src="~/js/navbar.js" asp-append-version="true"></script>
 </body>
