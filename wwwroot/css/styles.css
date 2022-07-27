@@ -291,10 +291,8 @@ ul {
   background-color: rgb(216, 142, 3);
 }
 
-/* Nav bard styles */
-@media screen and (max-width: 480px) {
-  
-}
+/* Nav bar styles */
+
 ul.topnav {
   margin: 0;
   padding: 0;
@@ -323,12 +321,6 @@ ul.topnav li a:hover:not(.active) {background-color: #111;}
 ul.topnav li a.active {background-color: #04AA6D;}
 
 ul.topnav li.right {float: right;}
- 
-@media screen and (max-width: 600px) {
-  ul.topnav li.right, 
-  ul.topnav li {float: none;}
-  #nav-name-link {float: none}
-}
 
 #nav-name-link {
   margin-left: 10px;
@@ -337,6 +329,10 @@ ul.topnav li.right {float: right;}
   text-decoration: none;
   color: #f0e9e9;
   text-shadow: rgb(0, 0, 0) 2px 2px;
+}
+
+@media screen and (max-width: 600px) {
+  #nav-name-link {float: none; text-align: center;}
 }
 
 /* Drop Down In Nav Bar */
@@ -386,6 +382,15 @@ ul.topnav li.right {float: right;}
 
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
+}
+
+.dropdown-list {
+  text-align: center;
+}
+
+.dropdown-number {
+  padding-left: 25px;
+  padding-bottom: 10px;
 }
 
 /* About Me Page */
