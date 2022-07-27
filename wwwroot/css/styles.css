@@ -27,6 +27,10 @@ ul {
   text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+  img {max-width: 100%;}
+}
+
 /* Splash Page */
 
 #home-img-banner {
@@ -277,6 +281,12 @@ ul {
 }
 
 /* Nav bar styles */
+
+.topnav {
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+}
 
 .topnav a {
   float: left;
