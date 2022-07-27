@@ -4,17 +4,19 @@
   <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Home - Caleb Coughenour</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link href="~/css/styles.css" rel="stylesheet" type="text/css">
 </head>
-<ul class="topnav">
+<ul class="topnav" id="myNavbar">
   <a id="nav-name-link" href="/"><h1 class="nav-title">Caleb Coughenour</h1></a>
-  <li><a href="/" class="active">Home</a></li>
-  <li><a href="/aboutme">About Me</a></li>
-  <li><a href="/projects">Projects</a></li>
-  <li><a href="/resume">Resume</a></li>  
+  <li><a href="/" class="active"><span class="material-icons">home</span>Home</a></li>
+  <li><a href="/aboutme"><span class="material-icons">perm_identity</span>About Me</a></li>
+  <li><a href="/projects"><span class="material-icons">folder_open</span>Projects</a></li>
+  <li><a href="/resume"><span class="material-icons">article</span>Resume</a></li>
+  <li><a href="/faq"><span class="material-icons">question_mark</span>FAQ</a></li>
   <div class="dropdown">
-    <button class="dropbtn">Contact</button>
+    <button class="dropbtn"><span class="material-icons">mail</span>Contact</button>
     <div class="dropdown-content">
       <a class="dropdown-list" href="https://www.linkedin.com/in/CalebCoughenour">LinkedIn</a>
       <a class="dropdown-list" href="mailto: calebcoughenour@protonmail.com">Email</a>
@@ -30,5 +32,6 @@
     </main>
   </div>
   @await Html.PartialAsync("Footer")
+  <script src="~/js/site.js" asp-append-version="true"></script>
 </body>
 </html>
