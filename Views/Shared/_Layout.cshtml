@@ -1,13 +1,33 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>@ViewData["Title"]</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link href="~/css/styles.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>  
-      @RenderBody()
-      @await Html.PartialAsync("Footer")
-  </body>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>@ViewData["Title"]</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link href="~/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+  <div class="topnav" id="myTopnav">
+    <a href="/">Home</a>
+    <a href="/aboutme">About Me</a>
+    <a href="/projects">Projects</a>
+    <a href="/resume">Resume</a>
+    <a href="/faq">FAQ</a>
+    <div class="dropdown">
+      <button class="dropbtn">Dropdown
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a class="dropdown-list" href="https://www.linkedin.com/in/CalebCoughenour">LinkedIn</a>
+        <a class="dropdown-list" href="mailto: calebcoughenour@protonmail.com">Email</a>
+        <p class="dropdown-number">(703)-498-9801</p>
+      </div>
+    </div>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+<body>  
+  @RenderBody()
+  @await Html.PartialAsync("Footer")
+  <script src="~/js/navbar.js" asp-append-version="true"></script>
+</body>
 </html>
