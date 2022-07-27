@@ -28,10 +28,6 @@ ul {
   text-align: center;
 }
 
-@media screen and (max-width: 600px) {
-  img {max-width: 100%;}
-}
-
 /* Splash Page */
 
 #home-img-banner {
@@ -67,10 +63,6 @@ ul {
 }
 
 /* Project Page */
-
-.project-body {
-  background-color: #cccccc;
-}
 
 .project-card {
   margin-bottom: 20px;
@@ -284,7 +276,7 @@ ul {
 /* Nav bar styles */
 
 .topnav {
-  
+  background-color: #555;
   position: fixed;
   top: 0;
   width: 100%;
@@ -295,7 +287,7 @@ ul {
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: rgb(255, 255, 255);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -314,7 +306,7 @@ ul {
   font-size: 17px;    
   border: none;
   outline: none;
-  color: black;
+  color: rgb(255, 255, 255);
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -339,6 +331,7 @@ ul {
 }
 
 .dropdown-number {
+  padding-top: 7px;
   text-align: center;
 }
 
@@ -356,52 +349,19 @@ ul {
   display: block;
 }
 
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), .dropdown .dropbtn {
-    display: none;
-  }
-  .topnav a.icon {
-    float: right;
-    display: block;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: center;
-  }
-  .topnav.responsive .dropdown {float: none;}
-  .topnav.responsive .dropdown-content {position: relative;}
-  .topnav.responsive .dropdown .dropbtn {
-    display: block;
-    width: 100%;
-    text-align: center;
-  }
-}
-
 
 /* About Me Page */
 
-.about-me-body {
-  background-color: #cccccc;
-}
-
 #selfie-img {
   width: 20%;
+  height: auto;
   float: left;
   border-radius: 15px;
 }
 
 #path-img {
   width: 20%;
+  height: auto;
   float: right;
 }
 
@@ -427,10 +387,6 @@ ul {
 }
 
 /* Resume Page */
-
-.resume-body {
-  background-color: #cccccc;
-}
 
 .resume-card {
   margin-top: 50px;
@@ -467,7 +423,7 @@ ul {
 }
 
 .active, .accordion:hover {
-  background-color: #ccc;
+  background-color: rgb(234, 227, 227);
 }
 
 .panel {
@@ -475,4 +431,46 @@ ul {
   background-color: white;
   display: none;
   overflow: hidden;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 600px) {
+  img {max-width: 100%;}
+  #path-img { width: 50%;}
+  #selfie-img { width: 50%;}
+  .dropdown-number { 
+    padding-bottom: 7px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
 }
