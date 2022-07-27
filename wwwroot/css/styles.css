@@ -356,14 +356,6 @@ ul {
   display: block;
 }
 
-.affix {
-	top: 0px;
-	margin: 0px 20px;
-}
-.affix + .container {
-	padding: 5px;
-}
-
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
