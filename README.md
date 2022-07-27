@@ -38,7 +38,7 @@
 
 ## Known Bugs
 
-* Still being built but no known bugs or issues
+* No known bugs
 
 ## License
 
