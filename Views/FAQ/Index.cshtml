@@ -1,16 +1,21 @@
-<button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+@{
+    ViewData["Title"] = "FAQ";
+}
+<h1 class="faq-header">FAQ</h1>
+<div class="accordian-container">
+  <button class="accordion">How long have you been coding and programming?</button>
+  <div class="panel">
+    <p>I started self learning with online courses in September 2021. In February 2022, I signed up for Epicodus where I took a six month coding course before an internship.</p>
+  </div>
 
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+  <button class="accordion">What languages have you learned?</button>
+  <div class="panel">
+    <p>C#, JavaScript, HTML, CSS</p>
+  </div>
 
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
+  <button class="accordion">What sort of technologies and frameworks are you familiar with?</button>
+  <div class="panel">
+    <p>React, MySQL, jQuery, MSTest, Jest, APIs, ASP.NET Core, Node.js, Git</p>
+  </div>
 </div>
-
 <script src="~/js/faq.js" asp-append-version="true"></script>
