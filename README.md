@@ -1,16 +1,13 @@
-# Work In Progress
+# Caleb Coughenour's Portfolio Page
 
-# Caleb Coughenou's Portfolio Page
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/><br>
 
-#### By Caleb Coughenour
-
-## Technologies Used
-
-* C#
-* Html
-* CSS
-* ASP.NET Core
-* REPL
+<br>![Splash Screenshot](wwwroot/img/README/splash-screenshot.png)
 
 ## Hosting
 
