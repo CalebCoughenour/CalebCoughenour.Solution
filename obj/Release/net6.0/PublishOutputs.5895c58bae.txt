@@ -1,4 +1,7 @@
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\CalebCoughenour.exe
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\publish\web.config
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\publish\CalebCoughenour.deps.json
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\publish\CalebCoughenour.runtimeconfig.json
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\CalebCoughenour.dll
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\CalebCoughenour.deps.json
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\publish\CalebCoughenour.runtimeconfig.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V8z/Md+6xXRw+x9FvKXK8V3ZNY/QFDBsSjq4zHxyaT8=",
+  "Hash": "i495RZ3ESVi8smmmZ79Xk/EKA7Wwdh8sEZRgQ526q0M=",
   "Source": "CalebCoughenour",
   "BasePath": "_content/CalebCoughenour",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\more-quotes.png"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Favicon\\favicon.png",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "img/Favicon/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Favicon\\favicon.png"
     },
     {
       "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\add-vendor.png",

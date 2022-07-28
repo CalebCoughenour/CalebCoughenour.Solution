@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PezS25r1BdiPozRBi6yvZNlwifop3RbgAag4jL0Beb4=",
+  "Hash": "x5zq2rWGL1lTBcb/7grfeD84XvTBdc+TrN8LGtiQUpc=",
   "Source": "CalebCoughenour",
   "BasePath": "_content/CalebCoughenour",
   "Mode": "Default",
@@ -374,6 +374,23 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\vendor-order-list.png"
     },
     {
+      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\README\\splash-screenshot.png",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "img/README/splash-screenshot.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\README\\splash-screenshot.png"
+    },
+    {
       "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-engineer-to-machine.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
@@ -593,6 +610,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Splash\\mt-hood.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\dropdown.js",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "js/dropdown.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dropdown.js"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\faq.js",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "js/faq.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\faq.js"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\navbar.js",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "js/navbar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\navbar.js"
     }
   ]
 }

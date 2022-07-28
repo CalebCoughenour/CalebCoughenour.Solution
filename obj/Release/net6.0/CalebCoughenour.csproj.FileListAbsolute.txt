@@ -20,3 +20,6 @@ C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\R
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\Release\net6.0\CalebCoughenour.pdb
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\Release\net6.0\CalebCoughenour.genruntimeconfig.cache
 C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\obj\Release\net6.0\ref\CalebCoughenour.dll
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\bin\Release\net6.0\publish\web.config
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\bin\Release\net6.0\publish\CalebCoughenour.deps.json
+C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\bin\Release\net6.0\publish\CalebCoughenour.runtimeconfig.json
