@@ -30,9 +30,8 @@
 * Open a shell program & navigate to your desktop
 * Clone the repository using the copied URL and the "git clone" command
 * In the shell program, navigate to the root directory of the newly created file called "CalebCoughenour.Solution"
-* From the root directory, navigate to the directory named "CalebCoughenour"
-* Next, in the PierresSweets directory type "dotnet run" to start the program
-* Open a web browser and plug "http://localhost:5000/" into the URL bar
+* Next, run the command "dotnet run" to start the program
+* Open a web browser and plug "http://localhost:5000/" or "http://localhost:5001/" into the URL bar
 
 ## Known Bugs
 
