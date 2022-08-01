@@ -1,4 +1,0 @@
-{
-  "appService.defaultWebAppToDeploy": "/subscriptions/1c444e36-f297-4c7f-8928-16a4dae0d90b/microsoft.web/sites/subscriptions/1c444e36-f297-4c7f-8928-16a4dae0d90b/resourceGroups/CalebCoughenourProfile_group/providers/Microsoft.Web/sites/CalebCoughenour",
-  "appService.deploySubpath": "publish"
-}

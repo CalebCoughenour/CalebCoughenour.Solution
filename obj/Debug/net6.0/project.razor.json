@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\CalebCoughenour.csproj",
+  "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\CalebCoughenour.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,67 +16298,67 @@
   "RootNamespace": "CalebCoughenour",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\SillystringzDetails.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\SillystringzDetails.cshtml",
       "TargetPath": "Views\\Projects\\SillystringzDetails.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\AtchooDetails.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\AtchooDetails.cshtml",
       "TargetPath": "Views\\Projects\\AtchooDetails.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Shared\\_Splash.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Shared\\_Splash.cshtml",
       "TargetPath": "Views\\Shared\\_Splash.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\CryptoDetails.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\CryptoDetails.cshtml",
       "TargetPath": "Views\\Projects\\CryptoDetails.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\Index.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\Index.cshtml",
       "TargetPath": "Views\\Projects\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\AboutMe\\Index.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\AboutMe\\Index.cshtml",
       "TargetPath": "Views\\AboutMe\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Resume\\Index.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Resume\\Index.cshtml",
       "TargetPath": "Views\\Resume\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Shared\\Footer.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Shared\\Footer.cshtml",
       "TargetPath": "Views\\Shared\\Footer.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\FAQ\\Index.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\FAQ\\Index.cshtml",
       "TargetPath": "Views\\FAQ\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\PierresDetails.cshtml",
+      "FilePath": "c:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\Views\\Projects\\PierresDetails.cshtml",
       "TargetPath": "Views\\Projects\\PierresDetails.cshtml",
       "FileKind": "mvc"
     }
