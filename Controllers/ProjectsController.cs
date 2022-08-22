@@ -21,7 +21,7 @@ namespace CalebCoughenour.Controllers
     {
       return View();
     }
-    public ActionResult PierresDetails()
+    public ActionResult SubscriptionPageDetails()
     {
       return View();
     }
