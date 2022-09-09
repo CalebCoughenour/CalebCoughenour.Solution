@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalebCoughenour
 build_property.RootNamespace = CalebCoughenour
-build_property.ProjectDir = c:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\
+build_property.ProjectDir = C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution
+build_property.MSBuildProjectDirectory = C:\Users\belac\Onedrive\Desktop\Epicodus\Capstone\CalebCoughenour.Solution
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/AboutMe/Index.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/AboutMe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRNZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/FAQ/Index.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/FAQ/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFRXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Home/Index.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/AtchooDetails.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/AtchooDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQXRjaG9vRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/CryptoDetails.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/CryptoDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3J5cHRvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/Index.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/FurnitureDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRnVybml0dXJlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/SillystringzDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcU2lsbHlzdHJpbmd6RGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/SubscriptionPageDetails.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Projects/SubscriptionPageDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcU3Vic2NyaXB0aW9uUGFnZURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Resume/Index.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Resume/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Shared/Footer.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Shared/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Shared/_Layout.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Shared/_Splash.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/Shared/_Splash.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TcGxhc2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/_ViewStart.cshtml]
+[C:/Users/belac/Onedrive/Desktop/Epicodus/Capstone/CalebCoughenour.Solution/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jrg9auHsR3DU8xu0aVSbpDMW5tkWqaCoIqXcQjeAA8w=",
+  "Hash": "EYi6WQTJDrX/qXpgiubC+d89RulLuUjWIOgdXH9mo6o=",
   "Source": "CalebCoughenour",
   "BasePath": "_content/CalebCoughenour",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CalebCoughenour\\wwwroot",
       "Source": "CalebCoughenour",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\css\\styles.css",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\About-Me\\path.jpg",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\About-Me\\path.jpg",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/About-Me/path.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\img\\About-Me\\path.jpg"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\About-Me\\selfie.jpg",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\About-Me\\selfie.jpg",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/About-Me/selfie.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\img\\About-Me\\selfie.jpg"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Allergy-List.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Allergy-List.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Atchoo/Atchoo-Allergy-List.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Atchoo\\Atchoo-Allergy-List.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Create-Profile.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Create-Profile.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Atchoo/Atchoo-Create-Profile.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Atchoo\\Atchoo-Create-Profile.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Created-Profile.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Created-Profile.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Atchoo/Atchoo-Created-Profile.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Atchoo\\Atchoo-Created-Profile.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\atchoo-home-page.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\atchoo-home-page.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Atchoo/atchoo-home-page.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Atchoo\\atchoo-home-page.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Matching-List.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\Atchoo-Matching-List.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Atchoo/Atchoo-Matching-List.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Atchoo\\Atchoo-Matching-List.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\homepage.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Atchoo\\homepage.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Atchoo/homepage.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Atchoo\\homepage.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-gas-fee.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-gas-fee.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Crypto/crypto-gas-fee.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\crypto-gas-fee.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-home-page.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-home-page.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Crypto/crypto-home-page.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\crypto-home-page.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-price-drop-down.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-price-drop-down.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Crypto/crypto-price-drop-down.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\crypto-price-drop-down.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-search.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\crypto-search.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Crypto/crypto-search.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\crypto-search.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\more-info.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\more-info.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Crypto/more-info.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\more-info.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\more-quotes.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Crypto\\more-quotes.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Crypto/more-quotes.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Crypto\\more-quotes.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Favicon\\favicon.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Favicon\\favicon.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Favicon/favicon.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Favicon\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\add-vendor.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\add-vendor.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/PierresBakery/add-vendor.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\add-vendor.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\new-order.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\new-order.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/PierresBakery/new-order.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\new-order.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\order-details.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\order-details.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/PierresBakery/order-details.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\order-details.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\pierres-bakery-home-page.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\pierres-bakery-home-page.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/PierresBakery/pierres-bakery-home-page.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\pierres-bakery-home-page.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\vendor-list.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\vendor-list.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/PierresBakery/vendor-list.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\vendor-list.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\vendor-order-list.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\PierresBakery\\vendor-order-list.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/PierresBakery/vendor-order-list.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PierresBakery\\vendor-order-list.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\README\\splash-screenshot.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\README\\splash-screenshot.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/README/splash-screenshot.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\README\\splash-screenshot.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-engineer-to-machine.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-engineer-to-machine.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/add-engineer-to-machine.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\add-engineer-to-machine.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-engineer.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-engineer.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/add-engineer.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\add-engineer.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-machine.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\add-machine.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/add-machine.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\add-machine.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\empty-engineer-list.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\empty-engineer-list.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/empty-engineer-list.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\empty-engineer-list.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\engineer-details-with-machine.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\engineer-details-with-machine.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/engineer-details-with-machine.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\engineer-details-with-machine.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\engineer-details.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\engineer-details.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/engineer-details.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\engineer-details.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\engineer-list.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\engineer-list.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/engineer-list.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\engineer-list.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\machine-details-with-engineer.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\machine-details-with-engineer.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/machine-details-with-engineer.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\machine-details-with-engineer.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\machine-details.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\machine-details.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/machine-details.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\machine-details.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\machine-list.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\machine-list.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/machine-list.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\machine-list.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\sillystringz-home-page.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\sillystringz-home-page.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/sillystringz-home-page.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\sillystringz-home-page.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\splash-with-list.png",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\SillyStringz\\splash-with-list.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/SillyStringz/splash-with-list.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SillyStringz\\splash-with-list.png"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Splash\\mt-hood.jpg",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Splash\\mt-hood.jpg",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "img/Splash/mt-hood.jpg",
       "AssetKind": "All",
@@ -629,10 +629,78 @@
       "OriginalItemSpec": "wwwroot\\img\\Splash\\mt-hood.jpg"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\dropdown.js",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Sub-React\\Footer.png",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "img/Sub-React/Footer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Sub-React\\Footer.png"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Sub-React\\full-page-gif.gif",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "img/Sub-React/full-page-gif.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Sub-React\\full-page-gif.gif"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Sub-React\\Slider-Section.png",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "img/Sub-React/Slider-Section.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Sub-React\\Slider-Section.png"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\img\\Sub-React\\Video-Section.png",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "BasePath": "_content/CalebCoughenour",
+      "RelativePath": "img/Sub-React/Video-Section.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Sub-React\\Video-Section.png"
+    },
+    {
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\dropdown.js",
+      "SourceId": "CalebCoughenour",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "js/dropdown.js",
       "AssetKind": "All",
@@ -646,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dropdown.js"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\faq.js",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\faq.js",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "js/faq.js",
       "AssetKind": "All",
@@ -663,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\faq.js"
     },
     {
-      "Identity": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\navbar.js",
+      "Identity": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\js\\navbar.js",
       "SourceId": "CalebCoughenour",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\belac\\Onedrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\belac\\OneDrive\\Desktop\\Epicodus\\Capstone\\CalebCoughenour.Solution\\wwwroot\\",
       "BasePath": "_content/CalebCoughenour",
       "RelativePath": "js/navbar.js",
       "AssetKind": "All",

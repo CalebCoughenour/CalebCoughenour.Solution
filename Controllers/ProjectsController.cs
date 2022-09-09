@@ -17,7 +17,7 @@ namespace CalebCoughenour.Controllers
     {
       return View();
     }
-    public ActionResult SillystringzDetails()
+    public ActionResult FurnitureDetails()
     {
       return View();
     }
